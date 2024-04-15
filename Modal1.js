@@ -1,5 +1,5 @@
 var iOS = !!navigator.platform && /iPad|iPhone|iPod/.test(navigator.platform);
-//ss
+
 $(document).ready(function () {
   // Select all elements with the data-modal attribute
   var modals = document.querySelectorAll('[data-modal]');
